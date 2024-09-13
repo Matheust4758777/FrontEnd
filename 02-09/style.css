@@ -1,0 +1,22 @@
+/* estilos para a tag h1 */
+h1 {
+    color:rgb(0, 255, 255) rpg(0, 191, 255); /* tudo que tiver a etiqueta (tag) h1 vai ter esta cor */ 
+    font-family: verdana,geneva,tahoma, sans-serif; /* troca a fonte para a que eu escolhi */
+}
+button { 
+    background-color: rgb(0, 255, 170); /* troca a cor do fundo */
+  
+    color:rgb(255, 255, 255)
+
+}
+/* estilos para a tag h1 */
+h1 {
+    color:rgb(0, 255, 255); /* tudo que tiver a etiqueta (tag) h1 
+    vai ter este cor*/
+    font-family:verdana,geneva,tahoma, sans-serif; /* troca a fonte para a que  eu escolhi */
+}
+button {
+    background-color: rgb(132, 0, 255); /* troca a cor do fundo */ 
+    color: rgb(255, 255, 255);
+}
+
